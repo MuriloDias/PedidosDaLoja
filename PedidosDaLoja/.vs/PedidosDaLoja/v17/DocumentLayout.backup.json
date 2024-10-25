@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muril\\Music\\PedidosDaLoja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF6B8FB-E8E8-4B20-8CF2-8712CBCB613D}|..\\PedidosDaLojaTests\\PedidosDaLojaTests.csproj|c:\\users\\muril\\music\\pedidosdalojatests\\controllers\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\infrastructure\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:infrastructure\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|c:\\users\\muril\\music\\pedidosdaloja\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D6674-85DC-490B-9323-2FB5E88AD49B}|PedidosDaLoja.csproj|solutionrelative:infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T23:45:37.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLojaTests\\Controllers\\OrdersControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\PedidosDaLojaTests\\Controllers\\OrdersControllerTests.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLojaTests\\Controllers\\OrdersControllerTests.cs",
+              "RelativeToolTip": "..\\PedidosDaLojaTests\\Controllers\\OrdersControllerTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:17:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:49:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:52:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:50:42.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:49:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:21:07.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:13:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\muril\\Music\\PedidosDaLoja\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:12:18.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
