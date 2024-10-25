@@ -22,6 +22,7 @@ Sistema Utiliza Seguintes Tecnologias:
 	 Workload version:  8.0.400-manifests.e99c892e
 	 MSBuild version:   17.11.9+a69bbaaf5
 
-OBS: Não consegui acertar nos testes pelo tempo, mas acredito que pesquisando um pouco mais acertaria para poder dar continuidade
+OBS: - Não consegui acertar nos testes pelo tempo, mas acredito que pesquisando um pouco mais acertaria para poder dar continuidade
 de fato não seriam testes dificeis, usando mock para forjar o retorno do DB e testando as possibilidades de todas as regras de negocio possiveis,
 acertando um, deveria ficar bem fácil de fazer todos, por que não são dificeis de se fazer, mas por tempo, eu deixei a estrutura criada e vou enviar desta forma.
+ - Não foi utilizado a estrutura de pastas completa da arquitetura indicada, pois várias pastas ficaram vazias, então foram removidas, e seriam recriadas conforme a necessidade.
